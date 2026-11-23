@@ -37,4 +37,8 @@ python main.py
 
 ## Testing
 
-I tested the program using the message "World of Warcraft." The program successfully encrypted and decrypted the message, and the integrity check passed.
+I tested the program using the message "Evan Pritchard" The program successfully encrypted and decrypted the message, and the integrity check passed.
+
+## Video Demonstration
+
+[Watch my encryption demonstration](Demo/Module%204%20Midterm%20-%20Evan%20Pritchard.mp4)
