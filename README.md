@@ -41,4 +41,4 @@ I tested the program using the message "Evan Pritchard" The program successfully
 
 ## Video Demonstration
 
-[Download my encryption demonstration (MP4, 58.7 MB)](Demo/Module%204%20Midterm%20-%20Evan%20Pritchard.mp4)
+[Download my encryption demonstration (MP4, 58.7 MB)](Demo/Module%204%20Midterm%20-%20Evan%20Pritchard.mp4) - Click view raw to download.
